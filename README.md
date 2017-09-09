@@ -1,0 +1,3 @@
+# NCD
+Normalized compression distance
+            
